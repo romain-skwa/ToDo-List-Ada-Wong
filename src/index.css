@@ -1,0 +1,22 @@
+body {
+  height: 80vh;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:black url("../public/background/ada-wong.jpg");
+  background-position: 40vw 0vh;
+  background-size: 78%;
+  background-repeat: no-repeat;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+section{
+  margin-top: 46vh;
+}
